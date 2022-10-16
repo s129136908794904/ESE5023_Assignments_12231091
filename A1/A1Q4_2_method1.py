@@ -16,7 +16,7 @@ def Find_subsets(inputList):
         return [[]]
     else:
         # lastSetList = Find_subsets(inputList[:-1])
-        # a bug in recursive python ode have occurred
+        # a bug in recursive python code have occurred
         return Find_subsets(inputList[:-1]) + Setlist_append_term(Find_subsets(inputList[:-1]), inputList[-1])
 
 
