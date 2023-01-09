@@ -20,3 +20,10 @@ Please name years that stand out having anomalous hurricane activity. (-1p)
 ## Comemnts on HW3 Lixc  (52/50)
 1.3 Good try. ( +1p) 
 2.2 Nice plot with two events. (+1p)
+
+### Assginment 04 comments - Chenyy
+Great job! I shall give you full point (30/30).
+
+### Assginment 05 comments - Chenyy
+Great job! I shall give you full point with 15 bonus (55/40).
+Your report is neat and organized. You did really good on Q1.4.
