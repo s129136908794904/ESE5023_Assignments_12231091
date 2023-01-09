@@ -17,3 +17,6 @@ Recheck plot x and y. (-2p)
 3.10
 Please name years that stand out having anomalous hurricane activity. (-1p)
 
+## Comemnts on HW3 Lixc  (52/50)
+1.3 Good try. ( +1p) 
+2.2 Nice plot with two events. (+1p)
